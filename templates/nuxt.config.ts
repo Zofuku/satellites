@@ -67,7 +67,7 @@ const nuxtConfig: NuxtConfiguration = {
    */
   vuetify: {
     theme: {
-      primary: '#3498db',
+      primary: 'blue',
       secondary: '#575656',
       accent: '#dbcb34'
     }
